@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "famechain",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
@@ -36,4 +37,15 @@
     "@babel/core": "^7.20.0"
   },
   "private": true
+=======
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1"
+  }
+>>>>>>> d24cda82a883903854cd22b950f5f6780ec1b4bf
 }
